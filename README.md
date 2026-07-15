@@ -144,7 +144,8 @@ BatterySmart-DataEngineering/
 | Query Language | SQL |
 | Business Intelligence | Power BI, DAX |
 | Version Control | Git, GitHub |
-| Upcoming | Scikit-learn, Streamlit |
+| Machine Learning | Scikit-learn (Under Development) |
+| Future Enhancement | Streamlit |
 
 ---
 
