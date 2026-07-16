@@ -51,7 +51,7 @@ DATA_PATH = BASE_DIR / "data" / "processed" / "ev_data_cleaned.csv"
 
 df = pd.read_csv(DATA_PATH)
 
-MODEL_PATH = BASE_DIR / "ml" / "models" / "best_random_forest.pkl"
+MODEL_PATH = BASE_DIR / "ml" / "models" / "ev_range_predictor.pkl"
 
 ml_model = joblib.load(MODEL_PATH)
 
